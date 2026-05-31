@@ -374,7 +374,7 @@ hide:
   - Used "karma" excuse when they died
 
 **[Chapter 25: The Smoking Gun — British Government Confirms Muslim](chapters/chapter_25_british_government_confirms_muslim.md)** 🔥💥
-- **NEW!** **705 lines - THE DEBATE ENDER:** Official British government document declares Sai Baba "Mahommedan" (Muslim)
+- **1,036 lines - THE DEBATE ENDER:** Official British government document declares Sai Baba "Mahommedan" (Muslim)
 - **Part 1:** The Legal Evidence
   - **Ahmednagar District Magistrate's Order (Oct 24, 1918)**: "The deceased was a Mahommedan of unknown origin"
   - **Burial Order:** "Buried according to Mohammedan rights" (Islamic funeral, NOT Hindu cremation)
@@ -384,6 +384,37 @@ hide:
   - **Neutral third party:** British officials had NO religious bias
   - **Contemporaneous:** Written immediately after death (1918), not 50 years later
   - **Legal status:** Official government record (admissible in court)
+- **Part 4B:** Sai's OWN Statements Proving He Was Muslim
+  - **"I was handed over to a Fakir in my infancy"** — Islamic upbringing (Sai Satcharitra Ch. 7)
+  - **"I am only a fakir"** — Self-identification as Muslim mystic
+  - **"Allah Malik" daily chant** — 40+ references in Sai Satcharitra
+  - **Lived in "Brahmin's Masjid"** — Admits residence is a MOSQUE!
+  - **"Ya Ali!" at death** — Islamic invocation (Mahalsapathy testimony)
+- **16 web references** — All clickable and verified!
+
+**[Chapter 26: Vedic Gods Are Scientific Principles — Not Myths](chapters/chapter_26_vedic_gods_scientific_principles.md)** 🔬🕉️
+- **NEW!** **868 lines - DEFENDING VEDIC WISDOM:** How Rishis observed nature scientifically and encoded knowledge in anthropomorphic forms
+- **Part 1:** What Are Ishvaras?
+  - **Ishvara (ईश्वर)** = Controller, functional principle governing natural law
+  - **Devas ≠ Western "Gods"** — Functional controllers, NOT anthropomorphic beings
+  - **33 Devas** = Systematic taxonomy of cosmic functions (8 Vasus + 11 Rudras + 12 Adityas + 2)
+- **Part 2:** How Rishis Observed Nature
+  - **Vedic Scientific Method:** Tapas → Dhyāna → Sākṣātkāra → Mantra → Śruti
+  - **Nāsadīya Sūkta** (Ṛg Veda 10.129) — Admits uncertainty, questions origin — SCIENTIFIC INQUIRY!
+- **Part 3:** Major Devas as Scientific Principles
+  - **AGNI** = Principle of Transformation (thermodynamics, ATP synthesis, metabolic fire)
+  - **INDRA** = Principle of Electromagnetic Power (lightning, storms, electrical discharge)
+  - **VĀYU** = Principle of Kinetic Energy (movement, transport, Prāṇa/breath)
+  - **SŪRYA** = Principle of Radiant Energy (solar power, photosynthesis, heliobiology)
+  - **VARUṆA** = Principle of Cosmic Law (gravitation, Ṛta, binding force)
+- **Part 4:** Why Anthropomorphic Forms?
+  - **Memorability:** Stories remembered 22x better than abstract facts
+  - **Pedagogical hierarchy:** Children → Youth → Seekers → Realized (progressive revelation)
+  - **Functional differentiation:** ONE Brahman with MANY functions (like government departments)
+- **Part 5:** Not Myths — Concrete Scientific Observations
+  - **Vedic devas ≠ Greek myths** — Systematic scientific taxonomy vs. entertainment stories
+  - **Vedas anticipated modern science:** Thermodynamics, electromagnetism, solar energy, gravitation
+  - **"Calling Vedic gods 'mythology' is like calling Einstein's equations 'fairy tales'!"**
   - **Cross-verified:** Matches 9 other independent sources (Satcharitra, academics, witnesses)
 - **Part 3:** The Three Death Records — ALL Say "Muslim"
   - **Government:** British classified as "Mahommedan"
@@ -458,11 +489,12 @@ hide:
 
 | Metric | Count |
 |--------|-------|
-| **Total Chapters** | 25 comprehensive |
-| **Total Lines** | 24,000+ |
+| **Total Chapters** | 26 comprehensive |
+| **Total Lines** | 25,000+ |
 | **Liṅga Defense Lines** | 3,700+ (Chapters 9-12) |
 | **Sai Baba Exposé Lines** | 13,100+ (Chapters 13-25) |
-| **Sanskrit Shlokas/Verses** | 36+ (Avadhuta, Agamas, Upanishads, Brahma Sutra) |
+| **Vedic Science Defense** | 868 lines (Chapter 26) |
+| **Sanskrit Shlokas/Verses** | 40+ (Avadhuta, Agamas, Upanishads, Vedas, Brahma Sutra) |
 | **Socratic Questions** | 157+ killer questions |
 | **Logical Traps** | 6 no-escape binds |
 | **Legal Documents** | British govt. order (1918) - PRIMARY SOURCE |
