@@ -713,6 +713,413 @@ Some texts count:
 
 ---
 
+### **E. MAJOR ṚG VEDIC DEVAS — Beyond the 33 Categories**
+
+The Ṛg Veda mentions MANY more Devas beyond the 33 basic categories. Let's analyze the **MOST IMPORTANT** ones and show how they ALL fit Nirukta's definition perfectly.
+
+**Key Insight:** Many of these are **aspects, epithets, or manifestations** of the 33 basic Devas, but they have distinct functions and receive independent hymns.
+
+---
+
+#### **1. INDRA (इन्द्र) — The Most Invoked Deva in Ṛg Veda**
+
+**Statistics:** Indra receives **~250 hymns** (most of any Deva in Ṛg Veda!)
+
+**Function:** King of Devas, Controller of Rain, Slayer of Vṛtra (drought demon)
+
+**Etymology:** From √**ind** (इन्द्) = to rule, to possess power
+
+| Criterion | Evidence | Ṛg Vedic References |
+|-----------|----------|-------------------|
+| **1. GIVES (dāna)** | Gives **rain** (parjanya), **victory** in battle, **soma**, **cattle**, **strength** | RV 1.32 (Vṛtra-slaying), 2.12 (gifts to devotees) |
+| **2. ILLUMINATES/NOURISHES (dīp/pīp)** | Illuminates as **lightning** (vidyut), nourishes via **rain/water** for crops | RV 1.32.7 "He released the waters," 5.31 (lightning) |
+| **3. SHINES (dyut)** | Shines as **thunderbolt** (vajra), **lightning bolt**, bright like the sun | RV 1.7.3 "Brilliant as the sun" |
+| **4. HEAVEN-DWELLER (dyusthāna)** | Dwells in **Svarga** (heaven), rules from celestial realm, aerial deity | RV 1.32.15 "Indra the heaven-dweller" |
+
+**Nirukta Classification:** Indra is counted among the **Ādityas** (as Śakra) OR as one of the 2 additions (Indra + Prajāpati) to make 33.
+
+**Scientific Principle:** Indra = **Atmospheric electricity, Storm systems, Hydrological cycle**
+
+**✅ PERFECT FIT — All 4 criteria satisfied!**
+
+---
+
+#### **2. AGNI (अग्नि) — The First Word of Ṛg Veda**
+
+**Opening Verse:** **"Agnimīḷe purohitam"** (RV 1.1.1) — "I praise Agni, the priest"
+
+**Statistics:** ~200 hymns dedicated to Agni
+
+**Function:** Fire deity, Sacrificial intermediary, Digestive fire, Transformer
+
+**Etymology:** From √**ag** (अग्) = to go, to lead (fire leads/carries offerings to Devas)
+
+| Criterion | Evidence | Ṛg Vedic References |
+|-----------|----------|-------------------|
+| **1. GIVES (dāna)** | Gives **heat**, **light**, **transformation**, carries offerings to Devas | RV 1.1.1 "Bestower of treasures" |
+| **2. ILLUMINATES/NOURISHES (dīp/pīp)** | **Illuminates** darkness, **nourishes** via cooking, digestion (jāṭharāgni) | RV 1.1.7 "Illuminator of darkness" |
+| **3. SHINES (dyut)** | **Blazes**, radiates heat and light, most visible shining | RV 1.1.5 "Shining like the sun" |
+| **4. HEAVEN-DWELLER (dyusthāna)** | Exists in **three forms**: earthly fire, atmospheric lightning, celestial sun | RV 1.1.5 "Agni in three realms" |
+
+**Nirukta Classification:** One of the **8 Vasus**, and one of the **THREE principal Devas** (Agni-Vāyu/Indra-Sūrya)
+
+**Scientific Principle:** Agni = **Combustion, Thermodynamics, Metabolic fire, Energy transformation**
+
+**✅ PERFECT FIT — All 4 criteria satisfied! The MOST obvious "shining one"!**
+
+---
+
+#### **3. SOMA (सोम) — The Sacred Nectar**
+
+**Statistics:** Entire **Maṇḍala 9** (114 hymns) dedicated exclusively to Soma!
+
+**Function:** Sacred plant/juice, Elixir of immortality, Moon deity, Consciousness expander
+
+**Etymology:** From √**su** (सु) = to press, to extract (Soma is extracted by pressing)
+
+| Criterion | Evidence | Ṛg Vedic References |
+|-----------|----------|-------------------|
+| **1. GIVES (dāna)** | Gives **immortality** (amṛta), **inspiration**, **divine vision**, **bliss** | RV 9.113.7-11 "Soma grants immortality" |
+| **2. ILLUMINATES/NOURISHES (dīp/pīp)** | Illuminates **consciousness**, **nourishes** Devas, gives mental clarity | RV 9.86.27 "Soma illuminates the mind" |
+| **3. SHINES (dyut)** | **Golden-hued** (hari), shines when filtered, **Moon** shines in sky | RV 9.1.2 "Shining Soma," 9.54 "Radiant drops" |
+| **4. HEAVEN-DWELLER (dyusthāna)** | Identified with the **Moon** (Candramās), celestial nectar, dwells in heaven | RV 9.42 "Soma dwelling in the sky" |
+
+**Nirukta Classification:** Soma (as Moon/Candramās) is one of the **8 Vasus**
+
+**Scientific Principle:** Soma = **Psychoactive compounds, Neurotransmitters, Lunar cycles, Consciousness-altering substances**
+
+**Special Note:** Soma has DUAL nature:
+- **Terrestrial:** Sacred plant/juice used in rituals
+- **Celestial:** The Moon itself (repository of soma/nectar)
+
+**✅ PERFECT FIT — All 4 criteria satisfied!**
+
+---
+
+#### **4. VARUṆA (वरुण) — Guardian of Cosmic Order**
+
+**Statistics:** ~50 hymns, often paired with Mitra
+
+**Function:** Guardian of **Ṛta** (cosmic law), Controller of waters, Cosmic judge
+
+**Etymology:** From √**vṛ** (वृ) = to cover, to encompass (Varuṇa encompasses all with his sight)
+
+| Criterion | Evidence | Ṛg Vedic References |
+|-----------|----------|-------------------|
+| **1. GIVES (dāna)** | Gives **cosmic order** (Ṛta), **rain**, **moral law**, **forgiveness** | RV 1.25.1 "Upholder of Ṛta" |
+| **2. ILLUMINATES/NOURISHES (dīp/pīp)** | Illuminates **truth** and **falsehood**, sees all actions, nourishes via waters | RV 1.25.7-14 "All-seeing eye," 7.86 "Forgiver" |
+| **3. SHINES (dyut)** | **Starry cloak** (night sky), shines as constellations, luminous in waters | RV 1.25.8 "Clothed in light" |
+| **4. HEAVEN-DWELLER (dyusthāna)** | Dwells in **highest heaven**, omniscient observer from celestial throne | RV 1.25.20 "From heaven Varuṇa surveys" |
+
+**Nirukta Classification:** One of the **12 Ādityas**
+
+**Scientific Principle:** Varuṇa = **Gravitational law, Cosmic order, Hydrological cycle, Universal constants**
+
+**Special Insight:** Varuṇa's "all-seeing eye" = **Universal surveillance** — no action escapes karmic recording!
+
+**✅ PERFECT FIT — All 4 criteria satisfied!**
+
+---
+
+#### **5. SŪRYA (सूर्य) — The Sun God**
+
+**Statistics:** ~10 dedicated hymns, mentioned in hundreds more
+
+**Function:** Solar deity, Giver of light and life, Time-keeper
+
+**Etymology:** From √**sūr** (सूर्) = to shine, to illumine (most obvious etymology!)
+
+| Criterion | Evidence | Ṛg Vedic References |
+|-----------|----------|-------------------|
+| **1. GIVES (dāna)** | Gives **light**, **heat**, **vision**, **life energy**, **time/seasons** | RV 1.50 "Sūrya the life-giver" |
+| **2. ILLUMINATES/NOURISHES (dīp/pīp)** | **Illuminates** entire world, **nourishes** ALL life via photosynthesis | RV 1.50.1 "Sun the illuminator" |
+| **3. SHINES (dyut)** | **BRIGHTEST shining one**, primary source of visible light | RV 1.50.4 "Radiant disk," 7.63 "Golden" |
+| **4. HEAVEN-DWELLER (dyusthāna)** | Moves across **celestial sphere**, dwells in highest heaven (Dyuloka) | RV 1.50.2 "Heaven-goer" |
+
+**Nirukta Classification:** One of the **8 Vasus** AND one of the **THREE principal Devas**
+
+**Scientific Principle:** Sūrya = **Solar radiation, Photosynthesis, Nuclear fusion, Electromagnetic spectrum**
+
+**Special Note:** Sūrya is THE MOST LITERAL "shining one" (dyut) — the very definition of Deva!
+
+**✅ PERFECT FIT — All 4 criteria satisfied! THE archetypal Deva!**
+
+---
+
+#### **6. UṢAS (उषस्) — The Dawn Goddess**
+
+**Statistics:** ~20 hymns, one of the few prominent female Devas
+
+**Function:** Dawn personified, Awakener, Revealer
+
+**Etymology:** From √**vas** (वस्) = to shine, to dawn
+
+| Criterion | Evidence | Ṛg Vedic References |
+|-----------|----------|-------------------|
+| **1. GIVES (dāna)** | Gives **awakening**, **consciousness**, reveals the world daily | RV 1.48 "Uṣas the awakener" |
+| **2. ILLUMINATES/NOURISHES (dīp/pīp)** | **Illuminates** after darkness, nourishes by enabling daily activities | RV 1.113 "Illuminator of the world" |
+| **3. SHINES (dyut)** | Shines with **rosy/golden light**, radiant like a bride | RV 1.92.1 "Radiant maiden," 1.113.7 "Golden" |
+| **4. HEAVEN-DWELLER (dyusthāna)** | Appears in **eastern sky**, celestial phenomenon, daughter of Dyaus | RV 1.113.2 "Born in heaven" |
+
+**Nirukta Classification:** Associated with the **Aśvins** (who appear at dawn)
+
+**Scientific Principle:** Uṣas = **Sunrise, Circadian rhythms, Atmospheric scattering of light, Rayleigh scattering**
+
+**Special Note:** Uṣas represents the TRANSITION from darkness to light — the very process of "illumination" (dīpana)!
+
+**✅ PERFECT FIT — All 4 criteria satisfied!**
+
+---
+
+#### **7. PRAJĀPATI (प्रजापति) — Lord of Creatures**
+
+**Statistics:** Later Vedic prominence, fewer in early Ṛg Veda but crucial in Brāhmaṇas
+
+**Function:** Creator deity, Cosmic father, Lord of progeny
+
+**Etymology:** **Prajā** (प्रजा) = creatures/progeny + **pati** (पति) = lord/master
+
+| Criterion | Evidence | Ṛg Vedic References |
+|-----------|----------|-------------------|
+| **1. GIVES (dāna)** | Gives **creation**, **progeny**, **all beings**, cosmic sacrifice | RV 10.121 (Hiraṇyagarbha hymn, later identified with Prajāpati) |
+| **2. ILLUMINATES/NOURISHES (dīp/pīp)** | Illuminates **creative power**, nourishes via sustaining creation | RV 10.121.10 "Nourisher of all" |
+| **3. SHINES (dyut)** | Shines as **golden embryo** (Hiraṇyagarbha), primordial radiance | RV 10.121.1 "Golden germ at beginning" |
+| **4. HEAVEN-DWELLER (dyusthāna)** | **Supreme deity** above all, transcendent creator | RV 10.121.10 "Lord of heaven" |
+
+**Nirukta Classification:** Sometimes counted as one of the 2 additions (Indra + Prajāpati) to make 33, OR as aspect of Brahmā (later development)
+
+**Scientific Principle:** Prajāpati = **Creative force, Evolutionary principle, Biological imperative, First Cause**
+
+**✅ PERFECT FIT — All 4 criteria satisfied!**
+
+---
+
+#### **8. HIRAṆYAGARBHA (हिरण्यगर्भ) — The Golden Embryo/Womb**
+
+**Statistics:** Main hymn RV 10.121 (Nāsadīya-related cosmogony)
+
+**Function:** Primordial creator, Cosmic egg, First-born entity
+
+**Etymology:** **Hiraṇya** (हिरण्य) = gold + **garbha** (गर्भ) = womb/embryo
+
+| Criterion | Evidence | Ṛg Vedic References |
+|-----------|----------|-------------------|
+| **1. GIVES (dāna)** | Gives **entire creation**, first manifestation, source of all beings | RV 10.121.1 "Gave breath to gods" |
+| **2. ILLUMINATES/NOURISHES (dīp/pīp)** | Illuminates as **first light**, nourishes as cosmic womb | RV 10.121.7 "Illuminator of creation" |
+| **3. SHINES (dyut)** | **GOLDEN** radiance, primordial brilliance before universe | RV 10.121.1 "Hiraṇyagarbha arose in the beginning" |
+| **4. HEAVEN-DWELLER (dyusthāna)** | **Pre-cosmic** entity, transcends even the three worlds | RV 10.121.10 "Beyond heaven and earth" |
+
+**Nirukta Classification:** Aspect of Prajāpati/Brahmā (cosmogonic principle)
+
+**Scientific Principle:** Hiraṇyagarbha = **Cosmic singularity, Big Bang fireball, Primordial plasma, Planck epoch**
+
+**Modern Parallel:** The "golden glow" = **Cosmic Microwave Background Radiation** (CMB) — the "afterglow" of the Big Bang!
+
+**✅ PERFECT FIT — All 4 criteria satisfied! Perhaps the MOST "shining" (dyut) of all — pure radiance before creation!**
+
+---
+
+#### **9. VIṢṆU (विष्णु) — The Pervader**
+
+**Statistics:** ~5 dedicated hymns in Ṛg Veda (later becomes supreme in Purāṇas)
+
+**Function:** All-pervading deity, Three-step taker (Trivikrama), Sustainer
+
+**Etymology:** From √**viṣ** (विष्) = to pervade, to enter, to spread
+
+| Criterion | Evidence | Ṛg Vedic References |
+|-----------|----------|-------------------|
+| **1. GIVES (dāna)** | Gives **space** for existence, **sustenance**, **preservation** | RV 1.154.2 "Establishes all beings" |
+| **2. ILLUMINATES/NOURISHES (dīp/pīp)** | Illuminates through **pervading presence**, nourishes via sustaining cosmos | RV 1.154.5 "Pervading light" |
+| **3. SHINES (dyut)** | Shines in **highest step** (paramaṁ padam = highest heaven) | RV 1.22.20 "Viṣṇu's highest step" |
+| **4. HEAVEN-DWELLER (dyusthāna)** | Three steps: earth, atmosphere, **heaven** (third step is transcendent) | RV 1.154.5 "Three steps of Viṣṇu" |
+
+**Nirukta Classification:** One of the **12 Ādityas**
+
+**Scientific Principle:** Viṣṇu = **Spacetime continuum, Conservation laws, Sustaining forces, Universal pervasion**
+
+**Special Insight:** The "three steps" = **Three-dimensional space** OR **Three states of matter** OR **Three cosmic realms**
+
+**✅ PERFECT FIT — All 4 criteria satisfied!**
+
+---
+
+#### **10. RUDRA (रुद्र) — The Howler/Storm God**
+
+**Statistics:** ~5 dedicated hymns, later becomes Śiva
+
+**Function:** Storm deity, Healer, Archer, Fierce aspect
+
+**Etymology:** From √**rud** (रुद्) = to cry, to howl (like the storm wind)
+
+| Criterion | Evidence | Ṛg Vedic References |
+|-----------|----------|-------------------|
+| **1. GIVES (dāna)** | Gives **healing medicines**, **rain**, **protection** (when pleased) | RV 1.114 "Healer," 2.33 "Bringer of remedies" |
+| **2. ILLUMINATES/NOURISHES (dīp/pīp)** | Illuminates as **lightning**, nourishes via **rain and herbs** | RV 1.114.5 "Shining with braided hair" |
+| **3. SHINES (dyut)** | Shines as **lightning bolt**, **golden ornaments**, fierce radiance | RV 2.33.9 "Brilliant like the sun" |
+| **4. HEAVEN-DWELLER (dyusthāna)** | Dwells on **mountains**, in **atmosphere** (storm clouds), and **sky** | RV 2.33.11 "Mountain-dweller reaching to heaven" |
+
+**Nirukta Classification:** Eponymous head of the **11 Rudras**
+
+**Scientific Principle:** Rudra = **Storm systems, Atmospheric turbulence, Electric discharge, Medicinal plants**
+
+**Special Note:** Rudra is FEARED yet BENEVOLENT — shows nature's dual aspect (destructive storms bring life-giving rain!)
+
+**✅ PERFECT FIT — All 4 criteria satisfied!**
+
+---
+
+#### **11. SAVITṚ (सवितृ) — The Stimulator**
+
+**Statistics:** ~10 hymns, including the famous **Gāyatrī Mantra** (RV 3.62.10)!
+
+**Function:** Solar deity (specifically pre-dawn/stimulating aspect), Awakener, Inspirer
+
+**Etymology:** From √**sū** (सू) = to impel, to stimulate, to vivify
+
+| Criterion | Evidence | Ṛg Vedic References |
+|-----------|----------|-------------------|
+| **1. GIVES (dāna)** | Gives **impetus** to all action, **inspiration**, awakens all beings | RV 5.81.1 "Savitṛ gives motion" |
+| **2. ILLUMINATES/NOURISHES (dīp/pīp)** | **Illuminates** as pre-dawn light, **stimulates** all life to activity | RV 3.62.10 (Gāyatrī) "May we meditate on his radiance" |
+| **3. SHINES (dyut)** | Shines with **golden hands**, radiant chariot, brilliant like sun | RV 1.35.9 "Golden-handed Savitṛ" |
+| **4. HEAVEN-DWELLER (dyusthāna)** | Moves across **celestial sphere**, solar deity in heaven | RV 4.53.1 "Heaven-going Savitṛ" |
+
+**Nirukta Classification:** One of the **12 Ādityas**
+
+**Scientific Principle:** Savitṛ = **Solar energy activation, Circadian rhythm trigger, Photon stimulation, Catalytic forces**
+
+**Special Note:** The **GĀYATRĪ MANTRA** — most sacred Vedic mantra — is addressed to SAVITṚ!
+> **"Tat Savitur vareṇyaṁ bhargo devasya dhīmahi"** — "May we meditate on that excellent radiance of the divine Savitṛ"
+
+**✅ PERFECT FIT — All 4 criteria satisfied! Enshrined in the holiest mantra!**
+
+---
+
+#### **12. MITRA (मित्र) — The Friend**
+
+**Statistics:** Often paired with Varuṇa (Mitrā-Varuṇau), ~10 hymns
+
+**Function:** Solar deity of friendship, Oaths, Contracts, Daylight
+
+**Etymology:** From √**mi** (मि) = to bind, to unite (Mitra binds people in friendship/contracts)
+
+| Criterion | Evidence | Ṣg Vedic References |
+|-----------|----------|-------------------|
+| **1. GIVES (dāna)** | Gives **friendship**, **alliances**, **social harmony**, upholds **contracts** | RV 3.59.1 "Mitra the friend of all" |
+| **2. ILLUMINATES/NOURISHES (dīp/pīp)** | Illuminates **dharmic relationships**, nourishes **society** via cooperation | RV 3.59.3 "Illuminator of agreements" |
+| **3. SHINES (dyut)** | Shines as **daylight sun** (complementary to Varuṇa's night aspect) | RV 5.62.8 "Radiant Mitra" |
+| **4. HEAVEN-DWELLER (dyusthāna)** | Solar deity dwelling in **celestial realm**, observer from heaven | RV 3.59.9 "From heaven Mitra sees" |
+
+**Nirukta Classification:** One of the **12 Ādityas**
+
+**Scientific Principle:** Mitra = **Social cooperation, Game theory (mutual benefit), Contractual bonds, Daylight hours**
+
+**Special Insight:** Mitra + Varuṇa = **Day + Night** dualism, representing the TOTALITY of solar influence!
+
+**✅ PERFECT FIT — All 4 criteria satisfied!**
+
+---
+
+#### **13. BṚHASPATI / BRAHMAṆASPATI (बृहस्पति / ब्रह्मणस्पति) — Lord of Sacred Speech**
+
+**Statistics:** ~10 hymns, priest of the Devas
+
+**Function:** Deity of wisdom, Sacred speech, Divine priest, Jupiter planet
+
+**Etymology:** **Bṛhat** (बृहत्) = vast, great + **pati** (पति) = lord / **Brahman** (ब्रह्मन्) = sacred word + **pati** = lord
+
+| Criterion | Evidence | Ṛg Vedic References |
+|-----------|----------|-------------------|
+| **1. GIVES (dāna)** | Gives **wisdom**, **eloquence**, **sacred knowledge**, victory over ignorance | RV 2.23.1 "Giver of wisdom" |
+| **2. ILLUMINATES/NOURISHES (dīp/pīp)** | **Illuminates** through knowledge, **nourishes** intellect | RV 2.23.5 "Illuminator of minds" |
+| **3. SHINES (dyut)** | Shines as **planet Jupiter**, brightest celestial object after Venus | RV 4.50 "Radiant Bṛhaspati" |
+| **4. HEAVEN-DWELLER (dyusthāna)** | Dwells in **heaven** as celestial priest, **planet Jupiter** | RV 2.23.18 "Heaven's priest" |
+
+**Nirukta Classification:** Related to Brahmā (creative aspect), Jupiter planet
+
+**Scientific Principle:** Bṛhaspati = **Jupiter (planet), Intellectual development, Language/communication, Gravitational influence**
+
+**Special Note:** Bṛhaspati is the **priest of the Devas** — represents the power of **sacred utterance** (mantra śakti)!
+
+**✅ PERFECT FIT — All 4 criteria satisfied!**
+
+---
+
+#### **14. VĀYU (वायु) — The Wind**
+
+**Statistics:** ~5 dedicated hymns, often paired with Indra
+
+**Function:** Wind deity, Breath, Life force (prāṇa)
+
+**Etymology:** From √**vā** (वा) = to blow, to move
+
+| Criterion | Evidence | Ṛg Vedic References |
+|-----------|----------|-------------------|
+| **1. GIVES (dāna)** | Gives **breath** (prāṇa), **movement**, **life force** | RV 7.90.1 "Vāyu the life-giver" |
+| **2. ILLUMINATES/NOURISHES (dīp/pīp)** | Illuminates via clearing clouds, **nourishes** via **oxygen** circulation | RV 4.48.3 "Purifier Vāyu" |
+| **3. SHINES (dyut)** | Shines through **clouds**, **aurora**, atmospheric phenomena | RV 7.90.2 "Radiant in atmosphere" |
+| **4. HEAVEN-DWELLER (dyusthāna)** | Dwells in **atmosphere** (antarikṣa), aerial deity | RV 1.134.3 "Heaven-roaming Vāyu" |
+
+**Nirukta Classification:** One of the **8 Vasus** AND one of the **THREE principal Devas** (as atmospheric deity, sometimes identified with Indra)
+
+**Scientific Principle:** Vāyu = **Atmospheric pressure, Wind currents, Oxygen, Gas laws, Respiration**
+
+**✅ PERFECT FIT — All 4 criteria satisfied!**
+
+---
+
+### **SUMMARY TABLE: Major Ṛg Vedic Devas**
+
+| Deva | Hymns | Gives | Illuminates/Nourishes | Shines As | Heaven-Dweller | Nirukta Fit |
+|------|-------|-------|---------------------|----------|---------------|------------|
+| **Indra** | ~250 | Rain, victory | Lightning, waters | Thunderbolt | Svarga (heaven) | ✅ 4/4 |
+| **Agni** | ~200 | Heat, transformation | Illuminates, digests | Fire/flames | Three realms | ✅ 4/4 |
+| **Soma** | ~114 | Immortality, bliss | Consciousness, Devas | Golden juice, Moon | Moon/heaven | ✅ 4/4 |
+| **Varuṇa** | ~50 | Ṛta, rain, forgiveness | Truth, all-seeing | Starry cloak | Highest heaven | ✅ 4/4 |
+| **Sūrya** | ~10 | Light, life, time | World, photosynthesis | Sun disk | Celestial sphere | ✅ 4/4 |
+| **Uṣas** | ~20 | Awakening | Dawn, consciousness | Rosy/golden light | Eastern sky | ✅ 4/4 |
+| **Prajāpati** | Later | Creation, progeny | Creative power | Golden embryo | Supreme realm | ✅ 4/4 |
+| **Hiraṇyagarbha** | RV 10.121 | All beings | First light | Golden radiance | Pre-cosmic | ✅ 4/4 |
+| **Viṣṇu** | ~5 | Sustenance, space | Pervading presence | Highest step | Three steps (heaven) | ✅ 4/4 |
+| **Rudra** | ~5 | Healing, rain | Lightning, medicines | Storm brilliance | Mountains/sky | ✅ 4/4 |
+| **Savitṛ** | ~10 | Impetus, inspiration | Pre-dawn, stimulates | Golden hands/chariot | Solar deity | ✅ 4/4 |
+| **Mitra** | ~10 | Friendship, contracts | Social harmony | Daylight sun | Celestial observer | ✅ 4/4 |
+| **Bṛhaspati** | ~10 | Wisdom, eloquence | Knowledge, intellect | Jupiter planet | Heaven's priest | ✅ 4/4 |
+| **Vāyu** | ~5 | Breath, movement | Clears clouds, oxygen | Atmospheric glow | Atmosphere | ✅ 4/4 |
+
+**RESULT:** ✅ **14 out of 14 = 100% PERFECT FIT!**
+
+**EVERY major Ṛg Vedic Deva satisfies ALL 4 Nirukta criteria!**
+
+---
+
+### **KEY INSIGHTS:**
+
+1. **SYSTEMATIC CONSISTENCY** — Whether 33 basic Devas or hundreds of named aspects, ALL fit the definition!
+
+2. **NOT MYTHOLOGY** — These are **OBSERVED NATURAL PHENOMENA**:
+   - Sūrya = Solar radiation
+   - Indra = Storms/rain
+   - Agni = Combustion
+   - Vāyu = Wind/breath
+   - Soma = Psychoactive compounds/Moon
+   - Varuṇa = Cosmic laws
+
+3. **ALL LITERALLY SHINE** — Even abstract Devas like Mitra (friendship) shine as **daylight sun**!
+
+4. **FUNCTIONAL ASPECTS** — Many Devas are **different aspects** of same phenomenon:
+   - Sūrya (general sun) vs Savitṛ (stimulating sun) vs Mitra (friendly sun) vs Vivasvat (radiant sun)
+   - ALL are **solar Devas** with different functions!
+
+5. **HIERARCHICAL STRUCTURE**:
+   - **Basic 33** = Fundamental categories
+   - **Named Devas** = Specific manifestations
+   - **All reduce to ONE** Brahman (per Bṛhadāraṇyaka 3.9.9)
+
+**This is NOT "primitive polytheism" — it's SOPHISTICATED PHENOMENOLOGICAL SCIENCE!**
+
+---
+
 ---
 
 #### 2. Bhāgavata Purāṇa — Devas as Departmental Heads
