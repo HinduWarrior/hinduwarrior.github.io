@@ -41,8 +41,13 @@ keywords: "Deva, Nirukta, Yaska, etymology, Sanskrit, Vedic gods, deities, Hindu
 **Original Sanskrit (Devanagari):**
 > **देवो दानाद्वा दीपनाद्वा द्योतनाद्वा द्युस्थानो भवतीतिवा।**
 
-**Transliteration (IAST):**
+**Transliteration (IAST - Standard version):**
 > **devo dānādvā dīpanādvā dyotanādvā dyusthāno bhavatītivā**
+
+**GRETIL Text Version (alternate reading):**
+> **devo dānād vā pīpanād vā dyotanād vā dyu-sthāno bhavati iti vā**
+
+**Note:** Some manuscripts read **pīpanād** (from पीप् = to nourish, fatten, make strong) instead of **dīpanād**
 
 **Word-by-Word Analysis:**
 
@@ -86,15 +91,22 @@ keywords: "Deva, Nirukta, Yaska, etymology, Sanskrit, Vedic gods, deities, Hindu
 
 ---
 
-#### 2️⃣ **DEVA = The Illuminator (दीपक)**
+#### 2️⃣ **DEVA = The Illuminator / Nourisher (दीपक / पीपक)**
+
+**Version A — दीप् (dīp):**
 - **Root:** **दीप् (dīp)** = to shine, to illuminate
 - **Meaning:** One who illuminates, makes visible, brings knowledge
 - **Vedic Context:** Devas illuminate cosmic truths and natural laws
 
+**Version B — पीप् (pīp)** (alternate manuscript reading):
+- **Root:** **पीप् (pīp)** = to nourish, to fatten, to make strong
+- **Meaning:** One who nourishes, strengthens, sustains
+- **Vedic Context:** Devas nourish and sustain creation
+
 **Example:**
-- Sūrya illuminates the world physically
-- Agni illuminates knowledge spiritually
-- Devas make the invisible (cosmic principles) visible
+- Sūrya illuminates the world physically AND nourishes all life with solar energy
+- Agni illuminates knowledge spiritually AND nourishes the body with digestive fire
+- Devas make the invisible (cosmic principles) visible AND sustain all beings
 
 ---
 
