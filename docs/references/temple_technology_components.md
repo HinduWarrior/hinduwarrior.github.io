@@ -571,6 +571,14 @@ Energy concentrates as it descends (like light through a lens).
 
 ## IV. Component 0: VIGRAHA — The Central Battery (Most Critical Component) {#vigraha}
 
+---
+
+**॥ विग्रहो देवतामूर्तिः प्राणस्य स्थानं महत् ॥**
+
+**"Vigraha is the deity's form, the great repository of prāṇa"**
+
+---
+
 ### A. Etymology: "The Great Absorber"
 
 **Vigraha** (विग्रह) = "That which absorbs/receives"
