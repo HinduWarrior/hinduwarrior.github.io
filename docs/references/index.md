@@ -91,6 +91,68 @@ Comprehensive analysis from Yāska's Nirukta (7th-5th century BCE) with 47+ Deva
 
 ---
 
+### [Hinduism: The Religion Closest to Truth](hinduism_closest_to_truth.md)
+
+**3,100+ lines** | **Reading time: ~75 minutes**
+
+<div class="chapter-card" markdown>
+
+**A response to Jeff Kripal's comparative religious methodology — Why Vedānta provides the only coherent framework for religious pluralism**
+
+**The Modern Crisis:**
+
+Scholar Jeff Kripal: "I've witnessed Christian miracles, Buddhist realizations, Hindu experiences... They can't all be right. So who has the ultimate truth?"
+
+**The Vedāntic Answer:**
+
+They ARE all right — at different levels of the same Reality (Brahman).
+
+**What's Inside:**
+
+- **Kripal's Dilemma:** "I believe too much" — accepting all religious phenomena as real but finding no framework to unite them
+- **Four Criteria Test:** Truth (explains all data), Inclusivity (no exclusions needed), Coherence (logical consistency), Verification (testable)
+- **Hinduism vs. Abrahamic Exclusivism:** Why "faith in historical events" fails philosophical scrutiny
+- **Hinduism vs. Buddhist Non-Self:** Resolving the self/no-self paradox through two-truth doctrine
+- **The Vedāntic Synthesis:** How Brahman (Nirguṇa + Saguṇa) includes ALL paths
+- **Six Proofs:** Mathematical, empirical, logical demonstration that Hinduism alone solves equivalence problem
+
+**Key Arguments:**
+
+1. ✅ **Only tradition that explains ALL religious experiences** (Christian miracles, Buddhist emptiness, Islamic surrender) without "demon" dismissals
+2. ✅ **Verification through direct experience** — not faith in unrepeatable historical events (resurrection, revelation)
+3. ✅ **Inclusive meta-framework** — affirms other paths as valid stages, not "wrong" or "demonic"
+4. ✅ **Resolves contradictions** — Personal God AND Impersonal Absolute (Saguṇa + Nirguṇa Brahman)
+5. ✅ **Coherent two-truth doctrine** — Empirical self (reincarnation) AND ultimate no-self (mokṣa)
+6. ✅ **Occam's Razor:** One Reality (Brahman) with multiple manifestations > multiple competing ultimates
+
+**Unique Contributions:**
+
+- ✅ Direct engagement with leading scholar of comparative religion (Kripal)
+- ✅ Responds to actual philosophical objections (not straw men)
+- ✅ Uses Kripal's OWN data (miracles he witnessed) against exclusivism
+- ✅ Shows Vedānta = NOT "one more option" but the META-FRAMEWORK
+- ✅ Proves through six independent arguments (empirical, logical, verification, inclusivity, coherence, parsimony)
+
+**Why This Matters:**
+
+Addresses the central crisis of modern religious seekers: "All religions have genuine miracles and mystical experiences — how do I choose? Or should I abandon all of them?"
+
+**Defense Value:**
+
+**Against:** "Hinduism is just polytheism" / "All religions are equally true/false" / "Why not Buddhism or Christianity?"
+
+**Weapon:** Rigorous philosophical proof that Vedānta provides the ONLY non-exclusive, empirically testable, logically coherent religious framework
+
+Demolishes both:
+- Religious exclusivism ("Only my path is true")
+- Postmodern relativism ("All paths are equally shadows")
+
+[Read Full Argument →](hinduism_closest_to_truth.md){ .md-button .md-button--primary }
+
+</div>
+
+---
+
 ## Primary Source Collections
 
 ### [Complete Bibliography](bibliography.md)
