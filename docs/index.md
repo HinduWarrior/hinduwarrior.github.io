@@ -393,7 +393,20 @@ hide:
 - **16 web references** — All clickable and verified!
 
 **[Chapter 26: Vedic Gods Are Scientific Principles — Not Myths](chapters/chapter_26_vedic_gods_scientific_principles.md)** 🔬🕉️
-- **NEW!** **868 lines - DEFENDING VEDIC WISDOM:** How Rishis observed nature scientifically and encoded knowledge in anthropomorphic forms
+- **868 lines - DEFENDING VEDIC WISDOM:** How Rishis observed nature scientifically and encoded knowledge in anthropomorphic forms
+
+**[Chapter 27: The Karna Myth Exposed — Misogynist Rebranded as Hero](chapters/chapter_27_karna_false_glorification_exposed.md)** ⚔️🔥
+- **NEW!** **1,277 lines - DESTROYING MODERN MEDIA'S GREATEST LIE:** Authentic Vyāsa Mahābhārata Sanskrit ślokas expose Karna's crimes
+- **Karna ordered Draupadī's disrobing** — Original Sanskrit from Sabhā Parva with full analysis
+- **Called her "veśyā" (whore)** — Exact verses showing verbal abuse in open court
+- **Advocated burning her alive** — Sanskrit evidence of murder advocacy
+- **Killed Abhimanyu (age 16) from behind, 7-on-1** — War crime documentation
+- **Battle record:** Defeated by Arjuna, Bhīma, Śatyaki — repeatedly ran away
+- **"Generous donor" myth destroyed** — Gave armor for EGO/reputation, not compassion
+- **"Loyal friend" myth destroyed** — Enabled Duryodhana's crimes, abandoned him in danger
+- **Complete ethical analysis** — Violations of Strī-Dharma, Kṣatriya-Dharma, Mitra-Dharma
+- **Kṛṣṇa's final verdict** — "Where was your dharma when Draupadī was disrobed?"
+- **11 sections, 40+ Sanskrit ślokas** — Primary source evidence from BORI Critical Edition
 - **Part 1:** What Are Ishvaras?
   - **Ishvara (ईश्वर)** = Controller, functional principle governing natural law
   - **Devas ≠ Western "Gods"** — Functional controllers, NOT anthropomorphic beings
@@ -489,11 +502,12 @@ hide:
 
 | Metric | Count |
 |--------|-------|
-| **Total Chapters** | 26 comprehensive |
-| **Total Lines** | 25,000+ |
+| **Total Chapters** | 27 comprehensive |
+| **Total Lines** | 26,500+ |
 | **Liṅga Defense Lines** | 3,700+ (Chapters 9-12) |
 | **Sai Baba Exposé Lines** | 13,100+ (Chapters 13-25) |
 | **Vedic Science Defense** | 868 lines (Chapter 26) |
+| **Karna Myth Exposé** | 1,277 lines (Chapter 27) |
 | **Sanskrit Shlokas/Verses** | 40+ (Avadhuta, Agamas, Upanishads, Vedas, Brahma Sutra) |
 | **Socratic Questions** | 157+ killer questions |
 | **Logical Traps** | 6 no-escape binds |
